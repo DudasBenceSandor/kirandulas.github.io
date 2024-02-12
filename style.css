@@ -1,0 +1,42 @@
+body{
+    background-color: #DDFFDD;
+}
+div{
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    color: #002200;
+}
+header{
+    text-align: center;
+    font-size: 150%;
+    font-weight: bold;
+    color: #002200;
+}
+.lista{
+    margin-left: 25px;
+    list-style: none;
+    color: #002200;
+}
+.img{
+    width: 120px;
+    height: 100px;
+    float: right;
+    display: flex;
+}
+.map{
+    margin: auto 100px;
+}
+.bold{
+    font-weight: bold;
+    color: #002200;
+}
+.tiny{
+    font-size: 95%;
+    margin-left: 25px;
+    color: #002200;
+}
+footer{
+    font-size: 200%;
+    color: #002200;
+}
